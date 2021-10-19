@@ -11,4 +11,18 @@ We have focussed on 3 major pillars of web intelligence:
 - **Product Analysis**: We have analysed consumer sentiments for a particular product to gather insights into the most liked and and later can be extended to any product. 
 - We have also worked towards understanding the negative sentiments in various tweets and tried to analyze issues customers face.
 
-[Demo video link](https://drive.google.com/file/d/1FnpGj0JZad0u5Qvdc1JwW07aHyQwN-cx/view?usp=sharing)
+![Flow Diagram](./AnalysisResults/FlowDiagram.png)
+
+### Analysis Results - I (Topic Distribution)
+![Topic Analysis](./AnalysisResults/TopicAnalysisI.png)
+
+### Analysis Results - II (Correlation between sentiment scores and VMware stock prices)
+![Sentiment Vs Stock Price Analysis](./AnalysisResults/SentimentVsStockPrice.png)
+
+### Analysis Results - III (Topic trend analysis - over the years)
+![Complete Analysis](./AnalysisResults/CompleteAnalysis.png)
+
+### Analysis Results - IV (Product Analysis)
+![Product Analysis](./AnalysisResults/ProductAnalysis.png)
+
+### [Demo video link](https://drive.google.com/file/d/1FnpGj0JZad0u5Qvdc1JwW07aHyQwN-cx/view?usp=sharing)
